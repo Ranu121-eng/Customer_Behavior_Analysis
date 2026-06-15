@@ -55,6 +55,7 @@ SQL Operations Performed:<br>
    - Category-wise Performance Analysis<br>
 
 📊 Dashboard Objective<br>
+
 The Customer Behavior Dashboard helps businesses understand:<br>
 - Customer demographics<br>
 - Purchasing behavior<br>
@@ -65,7 +66,7 @@ The Customer Behavior Dashboard helps businesses understand:<br>
 - Sales performance across different customer groups<br>
 The dashboard enables businesses to make informed decisions regarding marketing strategies, customer targeting, and product offerings.<br>
 
-📈 Key Performance Indicators (KPIs)<br>
+## 📈 Key Performance Indicators (KPIs)<br>
 🔹 Number of Customers<br>
 Measures the total customer base.<br>
 🔹 Average Purchase Amount<br>
