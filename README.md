@@ -31,30 +31,30 @@ Tasks Performed:
 Step 2: Data Analysis using SQL (MySQL)
 The cleaned dataset was imported into MySQL for querying and business analysis.<br>
 SQL Operations Performed:<br>
-Aggregate Functions:
-- SUM()
-- AVG()
-- COUNT()
-- MAX()
-- MIN()
-Grouping & Filtering
-- GROUP BY
-- HAVING
-- ORDER BY
-- WHERE
-Business Analysis Queries:
-- Total Revenue
-- Number of Customers
-- Average Purchase Amount
-- Revenue by Category
-- Sales by Category
-- Revenue by Age Group
-- Sales by Age Group
-- Subscription Status Analysis
-- Gender-wise Analysis
-- Category-wise Performance Analysis
+- Aggregate Functions:
+   - SUM()
+   - AVG()
+   - COUNT()
+   - MAX()
+   - MIN()
+- Grouping & Filtering
+   - GROUP BY
+   - HAVING
+   - ORDER BY
+   - WHERE
+- Business Analysis Queries:
+   - Total Revenue
+   - Number of Customers
+   - Average Purchase Amount
+   - Revenue by Category
+   - Sales by Category
+   - Revenue by Age Group
+   - Sales by Age Group
+   - Subscription Status Analysis
+   - Gender-wise Analysis
+   - Category-wise Performance Analysis<br>
 
-📊 Dashboard Objective
+📊 Dashboard Objective<br>
 The Customer Behavior Dashboard helps businesses understand:<br>
 - Customer demographics<br>
 - Purchasing behavior<br>
@@ -83,19 +83,19 @@ Analyzes purchasing patterns across customer age segments.<br>
 🔹 Subscription Status Analysis<br>
 Compares subscribed and non-subscribed customers.<br>
 ## 📊 Dashboard Features
-Interactive Slicers
-- Subscription Status
-- Gender
-- Product Category
-- Shipping Type<br>
-Dynamic Visualizations
-- KPI Cards
-- Donut Charts
-- Bar Charts
-- Horizontal Bar Charts
-- Category-wise Analysis
-- Age Group Analysis
-- Customer Segmentation Charts<br>
+- Interactive Slicers
+    - Subscription Status
+    - Gender
+    - Product Category
+    - Shipping Type<br>
+- Dynamic Visualizations
+    - KPI Cards
+    - Donut Charts
+    - Bar Charts
+    - Horizontal Bar Charts
+    - Category-wise Analysis
+    - Age Group Analysis
+    - Customer Segmentation Charts<br>
 ## 📷 Dashboard Preview
 
 <img width="818" height="455" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/8daeec9a-a439-4796-8b99-d20a02a87da5" />
@@ -116,10 +116,10 @@ Customer Behavior Dashboard<br>
 - Shipping preferences and customer demographics influence buying patterns.<br>
 ## Final Conclusion
 The Customer Behavior Analysis Dashboard provides meaningful insights into customer purchasing patterns, demographics, and revenue generation.<br>
-By integrating:<br>
-Python (Pandas) for data cleaning,<br>
-SQL (MySQL) for business analysis,<br>
-Power BI for dashboard development,<br>
+- By integrating:<br>
+   - Python (Pandas) for data cleaning,<br>
+   - SQL (MySQL) for business analysis,<br>
+   - Power BI for dashboard development,<br>
 this project demonstrates a complete End-to-End Data Analytics Pipeline.<br>
 The insights generated from this dashboard can help businesses:<br>
 - Improve customer segmentation strategies<br>
@@ -128,7 +128,7 @@ The insights generated from this dashboard can help businesses:<br>
 - Target high-value customer groups<br>
 - Optimize marketing campaigns<br>
 - Enhance overall business decision-making<br>
-🚀 Skills Demonstrated<br>
+## 🚀 Skills Demonstrated<br>
 -  Data Cleaning using Python (Pandas)<br>
 -  SQL Query Writing and Business Analysis<br>
 -  Database Management using MySQL<br>
