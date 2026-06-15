@@ -126,16 +126,16 @@ The insights generated from this dashboard can help businesses:<br>
 - Target high-value customer groups
 - Optimize marketing campaigns
 - Enhance overall business decision-making<br>
-## 🚀 Skills Demonstrated
--  Data Cleaning using Python (Pandas)
--  SQL Query Writing and Business Analysis
--  Database Management using MySQL
--  Power Query Transformations
--  DAX Measures and Calculations
--  Dashboard Design and Data Visualization
--  Business Intelligence and Analytical Thinking
--  End-to-End Data Analytics Project Development
-## 👩‍💻 Author
+## 🚀 Skills Demonstrated<br>
+-  Data Cleaning using Python (Pandas)<br>
+-  SQL Query Writing and Business Analysis<b>
+-  Database Management using MySQL<br>
+-  Power Query Transformations<br>
+-  DAX Measures and Calculations<br>
+-  Dashboard Design and Data Visualization<br>
+-  Business Intelligence and Analytical Thinking<br>
+-  End-to-End Data Analytics Project Development<br>
+## 👩‍💻 Author<br>
 Ranu Mistri<br>
 B.Tech (Computer Science Engineering) | Aspiring Data Analyst<br>
 Skills: Python | SQL | Power BI | Excel | Data Visualization | Business Intelligence
