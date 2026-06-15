@@ -6,29 +6,29 @@ This project focuses on analyzing customer shopping behavior and developing an i
 
 The project demonstrates an end-to-end Data Analytics workflow, beginning with data cleaning using Python (Pandas), followed by business analysis using MySQL, and culminating in an interactive Power BI dashboard for visualization and decision-making.
 ## 🛠️ Tools & Technologies Used
-Python (Pandas) – Data Cleaning & Preprocessing
-MySQL – Data Storage & Business Query Analysis
-Power BI – Interactive Dashboard Creation & Data Visualization
-Power Query – Data Transformation
-DAX – KPI Calculations and Measures
-Data Visualization & Business Intelligence
+- Python (Pandas) – Data Cleaning & Preprocessing
+- MySQL – Data Storage & Business Query Analysis
+- Power BI – Interactive Dashboard Creation & Data Visualization
+- Power Query – Data Transformation
+- DAX – KPI Calculations and Measures
+- Data Visualization & Business Intelligence
 ## 📂 Project Workflow
 Step 1: Data Cleaning using Python (Pandas)
-The raw customer shopping dataset was cleaned and preprocessed using Pandas.
+The raw customer shopping dataset was cleaned and preprocessed using Pandas.<br>
 Tasks Performed:
-Removed duplicate records
-Handled missing values
-Corrected data types
-Standardized categorical values
-Created derived columns such as:
-Age Group
-Revenue Metrics
-Customer Segmentation
-Exported the cleaned dataset for further analysis.
+- Removed duplicate records
+- Handled missing values
+- Corrected data types
+- Standardized categorical values
+- Created derived columns such as:
+- Age Group
+- Revenue Metrics
+- Customer Segmentation
+- Exported the cleaned dataset for further analysis.
 
 Step 2: Data Analysis using SQL (MySQL)
-The cleaned dataset was imported into MySQL for querying and business analysis.
-SQL Operations Performed:
+The cleaned dataset was imported into MySQL for querying and business analysis.<br>
+SQL Operations Performed:<br>
 Aggregate Functions:
 - SUM()
 - AVG()
