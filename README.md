@@ -5,6 +5,8 @@ This project analyzes customer shopping behavior using an end-to-end analytics w
 This project focuses on analyzing customer shopping behavior and developing an interactive dashboard to uncover valuable business insights related to customer demographics, purchasing patterns, subscription preferences, product performance, and revenue generation.
 
 The project demonstrates an end-to-end Data Analytics workflow, beginning with data cleaning using Python (Pandas), followed by business analysis using MySQL, and culminating in an interactive Power BI dashboard for visualization and decision-making.
+## Dataset Used
+<a href="https://github.com/Ranu121-eng/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Customer Shopping Behavior>
 ## 🛠️ Tools & Technologies Used
 - Python (Pandas) – Data Cleaning & Preprocessing
 - MySQL – Data Storage & Business Query Analysis
@@ -35,7 +37,7 @@ Aggregate Functions:
 - COUNT()
 - MAX()
 - MIN()
-- Grouping & Filtering
+Grouping & Filtering
 - GROUP BY
 - HAVING
 - ORDER BY
@@ -53,15 +55,15 @@ Business Analysis Queries:
 - Category-wise Performance Analysis
 
 📊 Dashboard Objective
-The Customer Behavior Dashboard helps businesses understand:
-- Customer demographics
-- Purchasing behavior
-- Revenue contribution by product categories
-- Subscription trends
-- Age group purchasing patterns
-- Customer segmentation insights
-- Sales performance across different customer groups
-The dashboard enables businesses to make informed decisions regarding marketing strategies, customer targeting, and product offerings.
+The Customer Behavior Dashboard helps businesses understand:<br>
+- Customer demographics<br>
+- Purchasing behavior<br>
+- Revenue contribution by product categories<br>
+- Subscription trends<br>
+- Age group purchasing patterns<br>
+- Customer segmentation insights<br>
+- Sales performance across different customer groups<br>
+The dashboard enables businesses to make informed decisions regarding marketing strategies, customer targeting, and product offerings.<br>
 
 📈 Key Performance Indicators (KPIs)<br>
 🔹 Number of Customers<br>
@@ -99,19 +101,19 @@ Dynamic Visualizations
 <img width="818" height="455" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/8daeec9a-a439-4796-8b99-d20a02a87da5" />
 <br>
 Customer Behavior Dashboard<br>
-- Total Customers: 4K
-- Average Purchase Amount: $59.76
-- Average Review Rating: 3.75
-- Subscription Status Distribution
-- Revenue & Sales Analysis by Category
-- Revenue & Sales Analysis by Age Group
+- Total Customers: 4K<br>
+- Average Purchase Amount: $59.76<br>
+- Average Review Rating: 3.75<br>
+- Subscription Status Distribution<br>
+- Revenue & Sales Analysis by Category<br>
+- Revenue & Sales Analysis by Age Group<br>
 ## 🔍 Project Insights
-- A significant portion of customers are non-subscribers, indicating opportunities for subscription-based marketing campaigns.
-- Certain product categories contribute substantially higher revenue than others.
-- Young Adults and Middle-aged customers generate the highest sales and revenue.
-- Customer ratings are generally positive, with an average rating of approximately 3.75/5.
-- Purchasing behavior varies across different customer segments and product categories.
-- Shipping preferences and customer demographics influence buying patterns.
+- A significant portion of customers are non-subscribers, indicating opportunities for subscription-based marketing campaigns.<br>
+- Certain product categories contribute substantially higher revenue than others.<br>
+- Young Adults and Middle-aged customers generate the highest sales and revenue.<br>
+- Customer ratings are generally positive, with an average rating of approximately 3.75/5.<br>
+- Purchasing behavior varies across different customer segments and product categories.<br>
+- Shipping preferences and customer demographics influence buying patterns.<br>
 ## Final Conclusion
 The Customer Behavior Analysis Dashboard provides meaningful insights into customer purchasing patterns, demographics, and revenue generation.<br>
 By integrating:<br>
