@@ -56,7 +56,7 @@ SQL Operations Performed:<br>
    - Gender-wise Analysis
    - Category-wise Performance Analysis<br>
 
-📊 Dashboard Objective<br>
+## 📊 Dashboard Objective<br>
 
 The Customer Behavior Dashboard helps businesses understand:<br>
 - Customer demographics<br>
@@ -103,6 +103,7 @@ Compares subscribed and non-subscribed customers.<br>
 
 <img width="818" height="455" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/8daeec9a-a439-4796-8b99-d20a02a87da5" />
 <br>
+
 Customer Behavior Dashboard<br>
 - Total Customers: 4K<br>
 - Average Purchase Amount: $59.76<br>
@@ -110,14 +111,14 @@ Customer Behavior Dashboard<br>
 - Subscription Status Distribution<br>
 - Revenue & Sales Analysis by Category<br>
 - Revenue & Sales Analysis by Age Group<br>
-## 🔍 Project Insights
+## 🔍 Project Insights<br>
 - A significant portion of customers are non-subscribers, indicating opportunities for subscription-based marketing campaigns.<br>
 - Certain product categories contribute substantially higher revenue than others.<br>
 - Young Adults and Middle-aged customers generate the highest sales and revenue.<br>
 - Customer ratings are generally positive, with an average rating of approximately 3.75/5.<br>
 - Purchasing behavior varies across different customer segments and product categories.<br>
 - Shipping preferences and customer demographics influence buying patterns.<br>
-## Final Conclusion
+## Final Conclusion<br>
 The Customer Behavior Analysis Dashboard provides meaningful insights into customer purchasing patterns, demographics, and revenue generation.<br>
 - By integrating:<br>
    - Python (Pandas) for data cleaning,<br>
