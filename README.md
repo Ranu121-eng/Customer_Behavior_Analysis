@@ -128,7 +128,7 @@ The insights generated from this dashboard can help businesses:<br>
 - Enhance overall business decision-making<br>
 ## 🚀 Skills Demonstrated<br>
 -  Data Cleaning using Python (Pandas)<br>
--  SQL Query Writing and Business Analysis<b>
+-  SQL Query Writing and Business Analysis<br>
 -  Database Management using MySQL<br>
 -  Power Query Transformations<br>
 -  DAX Measures and Calculations<br>
