@@ -121,10 +121,10 @@ Customer Behavior Dashboard<br>
 ## Final Conclusion<br>
 The Customer Behavior Analysis Dashboard provides meaningful insights into customer purchasing patterns, demographics, and revenue generation.<br>
 - By integrating:<br>
-   - Python (Pandas) for data cleaning,<br>
-   - SQL (MySQL) for business analysis,<br>
-   - Power BI for dashboard development,<br>
-this project demonstrates a complete End-to-End Data Analytics Pipeline.<br>
+   - Python (Pandas) for data cleaning<br>
+   - SQL (MySQL) for business analysis<br>
+   - Power BI for dashboard development<br>
+This project demonstrates a complete End-to-End Data Analytics Pipeline.<br>
 The insights generated from this dashboard can help businesses:<br>
 - Improve customer segmentation strategies<br>
 - Increase subscription conversions<br>
