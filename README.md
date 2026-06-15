@@ -80,3 +80,17 @@ Shows which age groups contribute the highest revenue.<br>
 Analyzes purchasing patterns across customer age segments.<br>
 🔹 Subscription Status Analysis<br>
 Compares subscribed and non-subscribed customers.<br>
+## 📊 Dashboard Features
+Interactive Slicers
+- Subscription Status
+- Gender
+- Product Category
+- Shipping Type
+Dynamic Visualizations
+- KPI Cards
+- Donut Charts
+- Bar Charts
+- Horizontal Bar Charts
+- Category-wise Analysis
+- Age Group Analysis
+- Customer Segmentation Charts
