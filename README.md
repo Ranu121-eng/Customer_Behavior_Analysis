@@ -6,7 +6,7 @@ This project focuses on analyzing customer shopping behavior and developing an i
 
 The project demonstrates an end-to-end Data Analytics workflow, beginning with data cleaning using Python (Pandas), followed by business analysis using MySQL, and culminating in an interactive Power BI dashboard for visualization and decision-making.
 ## Dataset Used
-<a href="https://github.com/Ranu121-eng/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Customer Shopping Behavior>
+<a href="https://github.com/Ranu121-eng/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Customer Shopping Behavior
 ## 🛠️ Tools & Technologies Used
 - Python (Pandas) – Data Cleaning & Preprocessing
 - MySQL – Data Storage & Business Query Analysis
