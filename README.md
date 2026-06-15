@@ -62,3 +62,21 @@ The Customer Behavior Dashboard helps businesses understand:
 - Customer segmentation insights
 - Sales performance across different customer groups
 The dashboard enables businesses to make informed decisions regarding marketing strategies, customer targeting, and product offerings.
+
+📈 Key Performance Indicators (KPIs)
+🔹 Number of Customers<br>
+Measures the total customer base.
+🔹 Average Purchase Amount<br>
+Measures the average spending per customer.
+🔹 Average Review Rating<br>
+Measures overall customer satisfaction.
+🔹 Revenue by Category<br>
+Analyzes which product categories generate the highest revenue.
+🔹 Sales by Category<br>
+Identifies the most purchased product categories.
+🔹 Revenue by Age Group<br>
+Shows which age groups contribute the highest revenue.
+🔹 Sales by Age Group<br>
+Analyzes purchasing patterns across customer age segments.
+🔹 Subscription Status Analysis<br>
+Compares subscribed and non-subscribed customers.
