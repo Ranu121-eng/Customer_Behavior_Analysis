@@ -98,11 +98,31 @@ Dynamic Visualizations
 
 <img width="818" height="455" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/8daeec9a-a439-4796-8b99-d20a02a87da5" />
 <br>
-<b>Customer Behavior Dashboard<b>
-<br>
+<b>Customer Behavior Dashboard<br>
 - Total Customers: 4K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
 - Subscription Status Distribution
 - Revenue & Sales Analysis by Category
 - Revenue & Sales Analysis by Age Group
+## 🔍 Project Insights
+A significant portion of customers are non-subscribers, indicating opportunities for subscription-based marketing campaigns.
+Certain product categories contribute substantially higher revenue than others.
+Young Adults and Middle-aged customers generate the highest sales and revenue.
+Customer ratings are generally positive, with an average rating of approximately 3.75/5.
+Purchasing behavior varies across different customer segments and product categories.
+Shipping preferences and customer demographics influence buying patterns.
+## Final Conclusion
+The Customer Behavior Analysis Dashboard provides meaningful insights into customer purchasing patterns, demographics, and revenue generation.<br>
+By integrating:<br>
+Python (Pandas) for data cleaning,<br>
+SQL (MySQL) for business analysis,<br>
+Power BI for dashboard development,<br>
+this project demonstrates a complete End-to-End Data Analytics Pipeline.<br>
+The insights generated from this dashboard can help businesses:<br>
+- Improve customer segmentation strategies
+- Increase subscription conversions
+- Identify high-performing product categories
+- Target high-value customer groups
+- Optimize marketing campaigns
+- Enhance overall business decision-making
