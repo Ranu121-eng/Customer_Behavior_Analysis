@@ -98,7 +98,7 @@ Dynamic Visualizations
 
 <img width="818" height="455" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/8daeec9a-a439-4796-8b99-d20a02a87da5" />
 <br>
-<b>Customer Behavior Dashboard<br>
+<b>Customer Behavior Dashboard<b><br>
 - Total Customers: 4K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
