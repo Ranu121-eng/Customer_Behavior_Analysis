@@ -98,7 +98,7 @@ Dynamic Visualizations
 
 <img width="818" height="455" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/8daeec9a-a439-4796-8b99-d20a02a87da5" />
 <br>
-<b>Customer Behavior Dashboard<b><br>
+Customer Behavior Dashboard<br>
 - Total Customers: 4K
 - Average Purchase Amount: $59.76
 - Average Review Rating: 3.75
@@ -106,12 +106,12 @@ Dynamic Visualizations
 - Revenue & Sales Analysis by Category
 - Revenue & Sales Analysis by Age Group
 ## 🔍 Project Insights
-A significant portion of customers are non-subscribers, indicating opportunities for subscription-based marketing campaigns.
-Certain product categories contribute substantially higher revenue than others.
-Young Adults and Middle-aged customers generate the highest sales and revenue.
-Customer ratings are generally positive, with an average rating of approximately 3.75/5.
-Purchasing behavior varies across different customer segments and product categories.
-Shipping preferences and customer demographics influence buying patterns.
+- A significant portion of customers are non-subscribers, indicating opportunities for subscription-based marketing campaigns.
+- Certain product categories contribute substantially higher revenue than others.
+- Young Adults and Middle-aged customers generate the highest sales and revenue.
+- Customer ratings are generally positive, with an average rating of approximately 3.75/5.
+- Purchasing behavior varies across different customer segments and product categories.
+- Shipping preferences and customer demographics influence buying patterns.
 ## Final Conclusion
 The Customer Behavior Analysis Dashboard provides meaningful insights into customer purchasing patterns, demographics, and revenue generation.<br>
 By integrating:<br>
@@ -126,3 +126,16 @@ The insights generated from this dashboard can help businesses:<br>
 - Target high-value customer groups
 - Optimize marketing campaigns
 - Enhance overall business decision-making
+## 🚀 Skills Demonstrated
+✔ Data Cleaning using Python (Pandas)
+✔ SQL Query Writing and Business Analysis
+✔ Database Management using MySQL
+✔ Power Query Transformations
+✔ DAX Measures and Calculations
+✔ Dashboard Design and Data Visualization
+✔ Business Intelligence and Analytical Thinking
+✔ End-to-End Data Analytics Project Development
+## 👩‍💻 Author
+Ranu Mistri<br>
+B.Tech (Computer Science Engineering) | Aspiring Data Analyst<br>
+Skills: Python | SQL | Power BI | Excel | Data Visualization | Business Intelligence
