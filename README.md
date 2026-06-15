@@ -120,13 +120,13 @@ SQL (MySQL) for business analysis,<br>
 Power BI for dashboard development,<br>
 this project demonstrates a complete End-to-End Data Analytics Pipeline.<br>
 The insights generated from this dashboard can help businesses:<br>
-- Improve customer segmentation strategies
-- Increase subscription conversions
-- Identify high-performing product categories
-- Target high-value customer groups
-- Optimize marketing campaigns
+- Improve customer segmentation strategies<br>
+- Increase subscription conversions<br>
+- Identify high-performing product categories<br>
+- Target high-value customer groups<br>
+- Optimize marketing campaigns<br>
 - Enhance overall business decision-making<br>
-## 🚀 Skills Demonstrated<br>
+🚀 Skills Demonstrated<br>
 -  Data Cleaning using Python (Pandas)<br>
 -  SQL Query Writing and Business Analysis<br>
 -  Database Management using MySQL<br>
@@ -135,7 +135,7 @@ The insights generated from this dashboard can help businesses:<br>
 -  Dashboard Design and Data Visualization<br>
 -  Business Intelligence and Analytical Thinking<br>
 -  End-to-End Data Analytics Project Development<br>
-## 👩‍💻 Author<br>
+## Author<br>
 Ranu Mistri<br>
 B.Tech (Computer Science Engineering) | Aspiring Data Analyst<br>
 Skills: Python | SQL | Power BI | Excel | Data Visualization | Business Intelligence
