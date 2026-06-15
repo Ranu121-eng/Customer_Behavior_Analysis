@@ -17,6 +17,7 @@ The project demonstrates an end-to-end Data Analytics workflow, beginning with d
 ## 📂 Project Workflow
 Step 1: Data Cleaning using Python (Pandas)
 The raw customer shopping dataset was cleaned and preprocessed using Pandas.<br>
+
 Tasks Performed:
 - Removed duplicate records
 - Handled missing values
@@ -30,6 +31,7 @@ Tasks Performed:
 
 Step 2: Data Analysis using SQL (MySQL)
 The cleaned dataset was imported into MySQL for querying and business analysis.<br>
+
 SQL Operations Performed:<br>
 - Aggregate Functions:
    - SUM()
