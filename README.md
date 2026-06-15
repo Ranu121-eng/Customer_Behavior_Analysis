@@ -85,7 +85,7 @@ Interactive Slicers
 - Subscription Status
 - Gender
 - Product Category
-- Shipping Type
+- Shipping Type<br>
 Dynamic Visualizations
 - KPI Cards
 - Donut Charts
@@ -93,4 +93,16 @@ Dynamic Visualizations
 - Horizontal Bar Charts
 - Category-wise Analysis
 - Age Group Analysis
-- Customer Segmentation Charts
+- Customer Segmentation Charts<br>
+## 📷 Dashboard Preview
+
+<img width="818" height="455" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/8daeec9a-a439-4796-8b99-d20a02a87da5" />
+<br>
+<b>Customer Behavior Dashboard<b>
+<br>
+- Total Customers: 4K
+- Average Purchase Amount: $59.76
+- Average Review Rating: 3.75
+- Subscription Status Distribution
+- Revenue & Sales Analysis by Category
+- Revenue & Sales Analysis by Age Group
